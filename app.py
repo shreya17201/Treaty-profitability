@@ -80,7 +80,6 @@ if not RESULTS.exists():
 df = load_results()
 
 st.title("Treaty Profitability")
-st.caption("Which reinsurance treaties lose money, and where to act at renewal. Synthetic data: no client data is used.")
 
 tab_portfolio, tab_forecast, tab_check = st.tabs(["Portfolio", "2026 forecast", "Check a treaty"])
 
