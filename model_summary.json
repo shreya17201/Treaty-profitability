@@ -1,0 +1,19 @@
+{
+  "test_rmse": 0.19229735127868852,
+  "baseline_rmse": 0.2314617341839891,
+  "test_r2": 0.3060952883373733,
+  "train_rows": 930,
+  "size_band_edges": [
+    500.0,
+    1722.0,
+    4398.2,
+    9666.4,
+    20567.800000000003,
+    50000.0
+  ],
+  "reference_levels": {
+    "line_of_business": "Death",
+    "treaty_type": "Quota Share",
+    "region": "NSW"
+  }
+}

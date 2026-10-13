@@ -1,0 +1,9 @@
+{
+  "rmse_regression": 0.22431615923991693,
+  "rmse_portfolio_average": 0.25735625188391187,
+  "rmse_own_history": 0.26518732850189164,
+  "auc_regression": 0.7241666666666666,
+  "auc_own_history": 0.5652380952380952,
+  "predicted_share_losing": 0.1612373856879985,
+  "actual_share_losing": 0.22580645161290322
+}

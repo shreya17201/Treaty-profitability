@@ -1,0 +1,156 @@
+treaty_id,cedent_name,line_of_business,treaty_type,region,inception_year,avg_loss_ratio,annual_premium,annual_claims,dollars_lost,breakeven_loss_ratio,full_cost_result,band,action
+TR0031,Harbourview Life,Income Protection,Surplus,NSW,2016,1.166485,982048.0,1145544.0,163496.0,0.785204,-374436.0,Critical,Restructure or exit
+TR0120,Granite Belt Mutual,Income Protection,Excess of Loss,NSW,2015,1.164366,6975587.0,8122133.0,1146547.0,0.668767,-3457090.0,Critical,Restructure or exit
+TR0151,Pelican Bay Life,TPD,Quota Share,QLD,2017,1.114309,308808.0,344108.0,35300.0,0.776313,-104376.0,Critical,Restructure or exit
+TR0142,Bluegum Assurance,Income Protection,Excess of Loss,WA,2015,1.109345,714855.0,793020.0,78166.0,0.788284,-229512.0,Critical,Restructure or exit
+TR0015,Harbourview Life,TPD,Quota Share,VIC,2014,1.102934,15993389.0,17639646.0,1646257.0,0.799363,-4855120.0,Critical,Restructure or exit
+TR0048,Granite Belt Mutual,Income Protection,Quota Share,VIC,2016,1.08151,54720251.0,59180491.0,4460240.0,0.670498,-22490652.0,Critical,Restructure or exit
+TR0071,Kookaburra Life,Income Protection,Surplus,VIC,2014,1.059421,4181279.0,4429734.0,248455.0,0.73281,-1365651.0,Critical,Restructure or exit
+TR0025,Southern Star Life,Trauma,Quota Share,WA,2015,1.055899,106544.0,112500.0,5956.0,0.652288,-43002.0,Critical,Restructure or exit
+TR0040,Wattle Mutual,Trauma,Excess of Loss,NSW,2018,1.052244,2242801.0,2359974.0,117174.0,0.719617,-746017.0,Critical,Restructure or exit
+TR0116,Jacaranda Life,Income Protection,Quota Share,NSW,2019,1.044072,8783407.0,9170511.0,387104.0,0.759865,-2496305.0,Critical,Restructure or exit
+TR0039,Pelican Bay Life,Trauma,Excess of Loss,SA,2020,1.033701,955492.0,987693.0,32201.0,0.686236,-332000.0,Critical,Restructure or exit
+TR0003,Bluegum Assurance,Trauma,Surplus,VIC,2016,1.027764,2287234.0,2350737.0,63503.0,0.63403,-900563.0,Critical,Restructure or exit
+TR0149,Mallee Life,Income Protection,Surplus,VIC,2020,1.022967,10933761.0,11184881.0,251120.0,0.811237,-2315009.0,Critical,Restructure or exit
+TR0012,Silver Wattle Insurance,Income Protection,Excess of Loss,QLD,2020,1.022528,18932231.0,19358741.0,426511.0,0.771738,-4748011.0,Critical,Restructure or exit
+TR0136,Jacaranda Life,Income Protection,Surplus,SA,2017,1.011872,1792736.0,1814019.0,21283.0,0.687617,-581304.0,Critical,Restructure or exit
+TR0128,Brolga Assurance,Trauma,Surplus,VIC,2015,1.010976,11183582.0,11306334.0,122752.0,0.647583,-4064041.0,Critical,Restructure or exit
+TR0026,Brolga Assurance,Income Protection,Quota Share,VIC,2018,1.000717,17003239.0,17015429.0,12191.0,0.722128,-4736909.0,Critical,Restructure or exit
+TR0060,Kookaburra Life,Income Protection,Quota Share,VIC,2016,0.997024,76695751.0,76467475.0,0.0,0.630297,-28126386.0,Underperforming,Reprice at renewal
+TR0044,Redgum Life,Death,Excess of Loss,SA,2020,0.984128,423530.0,416808.0,0.0,0.690436,-124388.0,Underperforming,Reprice at renewal
+TR0064,Jacaranda Life,TPD,Surplus,WA,2021,0.971801,709024.0,689031.0,0.0,0.768677,-144020.0,Underperforming,Reprice at renewal
+TR0118,Coolabah Insurance,Income Protection,Quota Share,WA,2014,0.965891,25682545.0,24806534.0,0.0,0.827314,-3559013.0,Underperforming,Reprice at renewal
+TR0032,Coral Coast Assurance,Trauma,Surplus,NSW,2015,0.965087,11201455.0,10810378.0,0.0,0.654303,-3481233.0,Underperforming,Reprice at renewal
+TR0047,Jacaranda Life,Income Protection,Quota Share,NSW,2016,0.960263,1635793.0,1570792.0,0.0,0.640414,-523207.0,Underperforming,Reprice at renewal
+TR0001,Kookaburra Life,Income Protection,Excess of Loss,SA,2014,0.958745,4284988.0,4108211.0,0.0,0.626828,-1422259.0,Underperforming,Reprice at renewal
+TR0098,Bluegum Assurance,Income Protection,Surplus,NSW,2019,0.954348,1001248.0,955538.0,0.0,0.706631,-248026.0,Underperforming,Reprice at renewal
+TR0153,Silver Wattle Insurance,TPD,Surplus,QLD,2023,0.949476,8968300.0,8515189.0,0.0,0.763335,-1669376.0,Underperforming,Reprice at renewal
+TR0004,Harbourview Life,TPD,Surplus,VIC,2017,0.943573,3806344.0,3591565.0,0.0,0.753785,-722399.0,Underperforming,Reprice at renewal
+TR0089,Banksia Life,Income Protection,Quota Share,WA,2023,0.940484,3801705.0,3575442.0,0.0,0.646837,-1116358.0,Underperforming,Reprice at renewal
+TR0061,Harbourview Life,Trauma,Excess of Loss,WA,2017,0.938197,7465585.0,7004189.0,0.0,0.706301,-1731240.0,Underperforming,Reprice at renewal
+TR0043,Brolga Assurance,TPD,Surplus,SA,2014,0.935342,1889231.0,1767077.0,0.0,0.791117,-272475.0,Underperforming,Reprice at renewal
+TR0127,Harbourview Life,Trauma,Surplus,QLD,2016,0.932391,2988530.0,2786478.0,0.0,0.626667,-913666.0,Underperforming,Reprice at renewal
+TR0138,Kestrel Insurance,Trauma,Surplus,VIC,2018,0.9229,16674673.0,15389058.0,0.0,0.683745,-3987840.0,Underperforming,Reprice at renewal
+TR0056,Kestrel Insurance,TPD,Excess of Loss,WA,2022,0.922202,3992417.0,3681813.0,0.0,0.680585,-964633.0,Underperforming,Reprice at renewal
+TR0146,Bluegum Assurance,Death,Quota Share,NSW,2018,0.918188,18828882.0,17288445.0,0.0,0.73297,-3487435.0,Underperforming,Reprice at renewal
+TR0054,Banksia Life,TPD,Quota Share,VIC,2019,0.917493,349465.0,320632.0,0.0,0.633816,-99135.0,Underperforming,Reprice at renewal
+TR0113,Bluegum Assurance,Death,Surplus,NSW,2014,0.916354,15977583.0,14641125.0,0.0,0.823445,-1484472.0,Underperforming,Reprice at renewal
+TR0002,Mallee Life,Death,Surplus,NSW,2016,0.914339,1250807.0,1143661.0,0.0,0.795095,-149151.0,Underperforming,Reprice at renewal
+TR0069,Coral Coast Assurance,Trauma,Surplus,SA,2022,0.912555,621329.0,566996.0,0.0,0.748341,-102031.0,Underperforming,Reprice at renewal
+TR0126,Wattle Mutual,Trauma,Surplus,WA,2014,0.91236,9840909.0,8978449.0,0.0,0.689599,-2192172.0,Underperforming,Reprice at renewal
+TR0117,Mallee Life,Income Protection,Surplus,NSW,2018,0.908083,339955.0,308708.0,0.0,0.749975,-53750.0,Underperforming,Reprice at renewal
+TR0057,Coolabah Insurance,Trauma,Quota Share,QLD,2019,0.907798,4760269.0,4321361.0,0.0,0.791618,-553048.0,Underperforming,Reprice at renewal
+TR0103,Redgum Life,Death,Excess of Loss,WA,2014,0.903518,6086104.0,5498905.0,0.0,0.661762,-1471353.0,Underperforming,Reprice at renewal
+TR0062,Granite Belt Mutual,Income Protection,Quota Share,QLD,2022,0.900301,1505377.0,1355293.0,0.0,0.624418,-415308.0,Underperforming,Reprice at renewal
+TR0084,Banksia Life,Trauma,Quota Share,WA,2016,0.89387,633423.0,566198.0,0.0,0.709223,-116960.0,Watch,"Monitor, review pricing"
+TR0029,Kookaburra Life,Trauma,Surplus,VIC,2019,0.893102,17328344.0,15475974.0,0.0,0.804876,-1528809.0,Watch,"Monitor, review pricing"
+TR0133,Silver Wattle Insurance,Income Protection,Quota Share,SA,2019,0.892202,14016650.0,12505685.0,0.0,0.642366,-3501862.0,Watch,"Monitor, review pricing"
+TR0078,Coolabah Insurance,Trauma,Quota Share,WA,2016,0.891317,2105454.0,1876628.0,0.0,0.810329,-170518.0,Watch,"Monitor, review pricing"
+TR0027,Kestrel Insurance,Trauma,Excess of Loss,NSW,2014,0.888323,6011491.0,5340148.0,0.0,0.653097,-1414059.0,Watch,"Monitor, review pricing"
+TR0063,Banksia Life,Income Protection,Excess of Loss,NSW,2018,0.888135,497809.0,442121.0,0.0,0.637866,-124586.0,Watch,"Monitor, review pricing"
+TR0038,Kookaburra Life,Trauma,Surplus,NSW,2014,0.879112,4822900.0,4239868.0,0.0,0.715793,-787671.0,Watch,"Monitor, review pricing"
+TR0099,Silver Wattle Insurance,Death,Quota Share,WA,2018,0.877989,125462.0,110154.0,0.0,0.812043,-8274.0,Watch,"Monitor, review pricing"
+TR0074,Harbourview Life,Income Protection,Surplus,WA,2016,0.875492,956576.0,837475.0,0.0,0.809227,-63388.0,Watch,"Monitor, review pricing"
+TR0143,Banksia Life,TPD,Quota Share,QLD,2016,0.871176,10293814.0,8967727.0,0.0,0.77876,-951313.0,Watch,"Monitor, review pricing"
+TR0030,Silver Wattle Insurance,Trauma,Quota Share,NSW,2014,0.867493,1283447.0,1113382.0,0.0,0.79573,-92104.0,Watch,"Monitor, review pricing"
+TR0036,Granite Belt Mutual,Trauma,Surplus,VIC,2015,0.852677,6241905.0,5322331.0,0.0,0.789182,-396332.0,Watch,"Monitor, review pricing"
+TR0050,Mallee Life,TPD,Quota Share,SA,2015,0.847198,1465475.0,1241548.0,0.0,0.690867,-229099.0,Watch,"Monitor, review pricing"
+TR0147,Kestrel Insurance,Death,Excess of Loss,NSW,2020,0.839204,3826663.0,3211351.0,0.0,0.648471,-729872.0,Watch,"Monitor, review pricing"
+TR0067,Kestrel Insurance,Trauma,Surplus,QLD,2016,0.836766,1349115.0,1128894.0,0.0,0.780166,-76360.0,Watch,"Monitor, review pricing"
+TR0130,Kestrel Insurance,Income Protection,Excess of Loss,NSW,2017,0.83174,29113050.0,24214487.0,0.0,0.737544,-2742343.0,Watch,"Monitor, review pricing"
+TR0122,Jacaranda Life,Death,Quota Share,NSW,2017,0.831682,6037579.0,5021343.0,0.0,0.68818,-866402.0,Watch,"Monitor, review pricing"
+TR0079,Coral Coast Assurance,Trauma,Quota Share,WA,2017,0.831347,3016092.0,2507418.0,0.0,0.645818,-559572.0,Watch,"Monitor, review pricing"
+TR0020,Coolabah Insurance,Income Protection,Quota Share,QLD,2023,0.829238,3673037.0,3045821.0,0.0,0.639605,-696530.0,Watch,"Monitor, review pricing"
+TR0088,Wattle Mutual,TPD,Quota Share,WA,2015,0.829133,7494376.0,6213837.0,0.0,0.767338,-463120.0,Watch,"Monitor, review pricing"
+TR0019,Mallee Life,Death,Surplus,QLD,2017,0.8233,2205049.0,1815417.0,0.0,0.700463,-270863.0,Watch,"Monitor, review pricing"
+TR0023,Pelican Bay Life,Trauma,Quota Share,VIC,2014,0.821587,4315211.0,3545321.0,0.0,0.692631,-556472.0,Watch,"Monitor, review pricing"
+TR0110,Kestrel Insurance,Trauma,Quota Share,NSW,2020,0.821149,10065200.0,8265027.0,0.0,0.785567,-358140.0,Watch,"Monitor, review pricing"
+TR0068,Brolga Assurance,Death,Quota Share,VIC,2014,0.818322,13931619.0,11400547.0,0.0,0.624834,-2695598.0,Watch,"Monitor, review pricing"
+TR0145,Mallee Life,Income Protection,Quota Share,WA,2019,0.818182,3685969.0,3015794.0,0.0,0.635355,-673894.0,Watch,"Monitor, review pricing"
+TR0152,Coral Coast Assurance,Income Protection,Quota Share,VIC,2016,0.817548,1955074.0,1598367.0,0.0,0.820933,6617.0,Watch,"Monitor, review pricing"
+TR0090,Kestrel Insurance,Income Protection,Quota Share,WA,2021,0.817409,3411987.0,2788990.0,0.0,0.7337,-285616.0,Watch,"Monitor, review pricing"
+TR0154,Banksia Life,TPD,Surplus,WA,2019,0.816721,2672146.0,2182398.0,0.0,0.802309,-38512.0,Watch,"Monitor, review pricing"
+TR0114,Silver Wattle Insurance,Income Protection,Surplus,NSW,2022,0.813251,7792952.0,6337624.0,0.0,0.680006,-1038369.0,Watch,"Monitor, review pricing"
+TR0100,Kookaburra Life,Income Protection,Quota Share,VIC,2021,0.807192,584177.0,471543.0,0.0,0.618823,-110041.0,Watch,"Monitor, review pricing"
+TR0005,Bluegum Assurance,Trauma,Surplus,QLD,2017,0.800664,9344696.0,7481958.0,0.0,0.798365,-21484.0,Watch,"Monitor, review pricing"
+TR0066,Ironbark Life,Trauma,Surplus,SA,2021,0.797107,5545252.0,4420158.0,0.0,0.683168,-631819.0,Watch,"Monitor, review pricing"
+TR0042,Bluegum Assurance,TPD,Surplus,WA,2014,0.796973,500488.0,398876.0,0.0,0.659454,-68827.0,Watch,"Monitor, review pricing"
+TR0134,Kookaburra Life,Income Protection,Quota Share,QLD,2022,0.795011,24800966.0,19717033.0,0.0,0.642639,-3778973.0,Watch,"Monitor, review pricing"
+TR0082,Kookaburra Life,TPD,Surplus,QLD,2015,0.791499,269213.0,213082.0,0.0,0.663181,-34545.0,Watch,"Monitor, review pricing"
+TR0070,Mallee Life,TPD,Quota Share,SA,2020,0.790424,2778129.0,2195899.0,0.0,0.717857,-201600.0,Watch,"Monitor, review pricing"
+TR0083,Ironbark Life,Income Protection,Quota Share,VIC,2023,0.788027,1553828.0,1224459.0,0.0,0.785373,-4125.0,Watch,"Monitor, review pricing"
+TR0024,Coral Coast Assurance,Trauma,Surplus,SA,2023,0.787699,28405547.0,22375007.0,0.0,0.637245,-4273709.0,Watch,"Monitor, review pricing"
+TR0094,Granite Belt Mutual,TPD,Surplus,VIC,2023,0.783949,16553494.0,12977088.0,0.0,0.793747,162199.0,Watch,"Monitor, review pricing"
+TR0013,Jacaranda Life,Trauma,Excess of Loss,SA,2019,0.78088,24219341.0,18912391.0,0.0,0.79885,435221.0,Watch,"Monitor, review pricing"
+TR0087,Brolga Assurance,Income Protection,Quota Share,SA,2019,0.77582,11192643.0,8683477.0,0.0,0.645428,-1459428.0,Watch,"Monitor, review pricing"
+TR0124,Cape Otway Assurance,TPD,Quota Share,QLD,2017,0.774954,19624210.0,15207858.0,0.0,0.700414,-1462792.0,Watch,"Monitor, review pricing"
+TR0076,Jacaranda Life,Death,Excess of Loss,WA,2018,0.768474,8769518.0,6739147.0,0.0,0.746483,-192849.0,Watch,"Monitor, review pricing"
+TR0121,Mallee Life,Trauma,Quota Share,SA,2015,0.76744,11243786.0,8628930.0,0.0,0.799831,364203.0,Watch,"Monitor, review pricing"
+TR0107,Silver Wattle Insurance,Trauma,Quota Share,WA,2021,0.765944,216383.0,165737.0,0.0,0.665815,-21666.0,Watch,"Monitor, review pricing"
+TR0075,Cape Otway Assurance,TPD,Surplus,QLD,2019,0.764868,6280242.0,4803557.0,0.0,0.739862,-157045.0,Watch,"Monitor, review pricing"
+TR0111,Wattle Mutual,TPD,Quota Share,NSW,2018,0.762943,181120.0,138184.0,0.0,0.684462,-14214.0,Watch,"Monitor, review pricing"
+TR0010,Harbourview Life,Death,Quota Share,WA,2017,0.76204,3419060.0,2605461.0,0.0,0.684853,-263908.0,Watch,"Monitor, review pricing"
+TR0009,Pelican Bay Life,Income Protection,Quota Share,SA,2016,0.758941,1248334.0,947412.0,0.0,0.665583,-116543.0,Watch,"Monitor, review pricing"
+TR0108,Redgum Life,Death,Quota Share,SA,2015,0.758301,7282032.0,5521974.0,0.0,0.652933,-767294.0,Watch,"Monitor, review pricing"
+TR0131,Silver Wattle Insurance,Income Protection,Quota Share,SA,2023,0.756372,1868764.0,1413481.0,0.0,0.642399,-212989.0,Watch,"Monitor, review pricing"
+TR0065,Harbourview Life,TPD,Quota Share,NSW,2015,0.754487,7099092.0,5356175.0,0.0,0.712671,-296858.0,Watch,"Monitor, review pricing"
+TR0086,Brolga Assurance,Trauma,Quota Share,SA,2020,0.753792,4706150.0,3547459.0,0.0,0.64071,-532183.0,Watch,"Monitor, review pricing"
+TR0105,Ironbark Life,Death,Surplus,SA,2015,0.752476,457769.0,344460.0,0.0,0.794089,19049.0,Watch,"Monitor, review pricing"
+TR0106,Pelican Bay Life,Income Protection,Quota Share,WA,2020,0.750663,4172836.0,3132395.0,0.0,0.721549,-121488.0,Watch,"Monitor, review pricing"
+TR0095,Pelican Bay Life,Trauma,Quota Share,VIC,2023,0.748821,1301138.0,974319.0,0.0,0.725513,-30326.0,Watch,"Monitor, review pricing"
+TR0046,Redgum Life,Death,Surplus,NSW,2019,0.743112,2501730.0,1859066.0,0.0,0.822906,199622.0,Watch,"Monitor, review pricing"
+TR0014,Mallee Life,Death,Surplus,WA,2020,0.741194,7496271.0,5556193.0,0.0,0.655895,-639430.0,Watch,"Monitor, review pricing"
+TR0059,Granite Belt Mutual,Trauma,Quota Share,VIC,2020,0.733972,564359.0,414224.0,0.0,0.659266,-42161.0,Watch,"Monitor, review pricing"
+TR0135,Jacaranda Life,Death,Surplus,VIC,2019,0.733528,4692183.0,3441846.0,0.0,0.650365,-390216.0,Watch,"Monitor, review pricing"
+TR0081,Coolabah Insurance,Death,Quota Share,SA,2021,0.732255,453536.0,332104.0,0.0,0.657341,-33976.0,Watch,"Monitor, review pricing"
+TR0052,Granite Belt Mutual,Trauma,Excess of Loss,QLD,2022,0.731742,707201.0,517488.0,0.0,0.739306,5349.0,Watch,"Monitor, review pricing"
+TR0022,Coolabah Insurance,TPD,Surplus,VIC,2014,0.72705,850800.0,618574.0,0.0,0.666969,-51117.0,Watch,"Monitor, review pricing"
+TR0035,Brolga Assurance,TPD,Quota Share,QLD,2015,0.720398,1627892.0,1172730.0,0.0,0.709999,-16929.0,Watch,"Monitor, review pricing"
+TR0017,Wattle Mutual,Death,Surplus,VIC,2015,0.709815,484922.0,344205.0,0.0,0.719348,4623.0,Profitable,Renew as is
+TR0144,Pelican Bay Life,Trauma,Quota Share,NSW,2022,0.709205,12404276.0,8797173.0,0.0,0.635745,-911213.0,Profitable,Renew as is
+TR0141,Pelican Bay Life,Income Protection,Quota Share,QLD,2022,0.708482,697842.0,494408.0,0.0,0.762246,37519.0,Profitable,Renew as is
+TR0055,Mallee Life,Income Protection,Quota Share,NSW,2023,0.707043,978871.0,692104.0,0.0,0.800793,91769.0,Profitable,Renew as is
+TR0037,Wattle Mutual,Trauma,Excess of Loss,QLD,2014,0.702625,153895.0,108130.0,0.0,0.667218,-5449.0,Profitable,Renew as is
+TR0021,Brolga Assurance,Income Protection,Quota Share,VIC,2020,0.693197,5329815.0,3694613.0,0.0,0.695149,10403.0,Profitable,Renew as is
+TR0150,Harbourview Life,TPD,Quota Share,VIC,2021,0.692466,3503114.0,2425788.0,0.0,0.772908,281795.0,Profitable,Renew as is
+TR0006,Harbourview Life,Death,Excess of Loss,NSW,2015,0.691944,2421385.0,1675463.0,0.0,0.799666,260835.0,Profitable,Renew as is
+TR0051,Redgum Life,Death,Quota Share,SA,2023,0.689703,15884255.0,10955417.0,0.0,0.727675,603154.0,Profitable,Renew as is
+TR0072,Brolga Assurance,Death,Excess of Loss,VIC,2016,0.689656,4445889.0,3066135.0,0.0,0.74549,248230.0,Profitable,Renew as is
+TR0028,Harbourview Life,Death,Excess of Loss,WA,2016,0.685006,2659015.0,1821442.0,0.0,0.837292,404931.0,Profitable,Renew as is
+TR0096,Granite Belt Mutual,Income Protection,Quota Share,NSW,2022,0.683014,7111983.0,4857584.0,0.0,0.749325,471605.0,Profitable,Renew as is
+TR0155,Bluegum Assurance,Income Protection,Excess of Loss,VIC,2019,0.682598,1397453.0,953899.0,0.0,0.684347,2444.0,Profitable,Renew as is
+TR0092,Silver Wattle Insurance,TPD,Quota Share,QLD,2021,0.680768,315415.0,214725.0,0.0,0.780441,31438.0,Profitable,Renew as is
+TR0137,Cape Otway Assurance,Trauma,Quota Share,NSW,2021,0.676985,5502423.0,3725060.0,0.0,0.825067,814806.0,Profitable,Renew as is
+TR0119,Kookaburra Life,Death,Surplus,SA,2023,0.675106,6595814.0,4452872.0,0.0,0.795454,793793.0,Profitable,Renew as is
+TR0102,Redgum Life,Death,Quota Share,SA,2020,0.674155,7587366.0,5115063.0,0.0,0.65871,-117191.0,Profitable,Renew as is
+TR0140,Jacaranda Life,Death,Surplus,QLD,2020,0.668939,5615961.0,3756737.0,0.0,0.721872,297266.0,Profitable,Renew as is
+TR0033,Banksia Life,Death,Quota Share,VIC,2017,0.652301,1017343.0,663614.0,0.0,0.773556,123358.0,Profitable,Renew as is
+TR0049,Kookaburra Life,Death,Quota Share,SA,2014,0.640287,10169214.0,6511216.0,0.0,0.675768,360813.0,Profitable,Renew as is
+TR0085,Harbourview Life,Death,Surplus,QLD,2016,0.630304,3528474.0,2224010.0,0.0,0.729079,348527.0,Profitable,Renew as is
+TR0034,Coolabah Insurance,Death,Excess of Loss,NSW,2018,0.629492,2763981.0,1739904.0,0.0,0.637326,21654.0,Profitable,Renew as is
+TR0132,Redgum Life,Death,Quota Share,NSW,2016,0.626234,490305.0,307046.0,0.0,0.755423,63342.0,Profitable,Renew as is
+TR0077,Granite Belt Mutual,Death,Quota Share,WA,2018,0.623954,265037.0,165371.0,0.0,0.742502,31419.0,Profitable,Renew as is
+TR0016,Harbourview Life,Death,Quota Share,SA,2019,0.618937,5053663.0,3127902.0,0.0,0.636727,89903.0,Profitable,Renew as is
+TR0091,Southern Star Life,Death,Quota Share,SA,2022,0.617853,2295658.0,1418379.0,0.0,0.753834,312165.0,Profitable,Renew as is
+TR0097,Pelican Bay Life,Death,Quota Share,SA,2022,0.614941,1593280.0,979773.0,0.0,0.705596,144439.0,Profitable,Renew as is
+TR0148,Jacaranda Life,Death,Quota Share,WA,2015,0.613166,8327046.0,5105858.0,0.0,0.77705,1364669.0,Profitable,Renew as is
+TR0123,Wattle Mutual,Death,Quota Share,SA,2014,0.610906,3131134.0,1912830.0,0.0,0.783488,540376.0,Profitable,Renew as is
+TR0045,Coral Coast Assurance,Income Protection,Quota Share,QLD,2022,0.609099,1008715.0,614408.0,0.0,0.783506,175927.0,Profitable,Renew as is
+TR0125,Silver Wattle Insurance,TPD,Surplus,WA,2022,0.605178,640883.0,387848.0,0.0,0.621633,10545.0,Profitable,Renew as is
+TR0129,Coral Coast Assurance,Death,Excess of Loss,QLD,2017,0.602291,940423.0,566408.0,0.0,0.817456,202346.0,Profitable,Renew as is
+TR0041,Kestrel Insurance,Death,Quota Share,WA,2018,0.601312,960195.0,577376.0,0.0,0.733717,127134.0,Profitable,Renew as is
+TR0018,Jacaranda Life,Death,Quota Share,VIC,2019,0.598457,3729511.0,2231951.0,0.0,0.727654,481843.0,Profitable,Renew as is
+TR0008,Mallee Life,Death,Surplus,QLD,2023,0.597351,1823104.0,1089034.0,0.0,0.759852,296257.0,Profitable,Renew as is
+TR0115,Pelican Bay Life,Death,Quota Share,WA,2015,0.595872,758341.0,451874.0,0.0,0.764042,127531.0,Profitable,Renew as is
+TR0101,Coolabah Insurance,TPD,Quota Share,VIC,2018,0.592916,1445795.0,857236.0,0.0,0.809113,312576.0,Profitable,Renew as is
+TR0058,Wattle Mutual,TPD,Excess of Loss,VIC,2018,0.591727,706949.0,418321.0,0.0,0.764867,122401.0,Profitable,Renew as is
+TR0080,Coolabah Insurance,Death,Quota Share,NSW,2015,0.591049,4254778.0,2514784.0,0.0,0.816352,958615.0,Profitable,Renew as is
+TR0139,Granite Belt Mutual,Death,Quota Share,QLD,2018,0.59002,5371801.0,3169469.0,0.0,0.80545,1157248.0,Profitable,Renew as is
+TR0093,Southern Star Life,Death,Quota Share,NSW,2020,0.576253,10362091.0,5971185.0,0.0,0.724696,1538177.0,Profitable,Renew as is
+TR0007,Harbourview Life,Death,Excess of Loss,WA,2020,0.575257,568361.0,326954.0,0.0,0.729933,87912.0,Profitable,Renew as is
+TR0109,Silver Wattle Insurance,Death,Quota Share,NSW,2021,0.561609,1200279.0,674088.0,0.0,0.699184,165128.0,Profitable,Renew as is
+TR0112,Wattle Mutual,Death,Surplus,NSW,2021,0.519644,2254295.0,1171430.0,0.0,0.801451,635278.0,Profitable,Renew as is
+TR0011,Cape Otway Assurance,Trauma,Quota Share,NSW,2022,0.512547,3154781.0,1616972.0,0.0,0.761725,786103.0,Profitable,Renew as is
+TR0104,Banksia Life,Death,Excess of Loss,WA,2016,0.491706,588496.0,289367.0,0.0,0.735978,143753.0,Profitable,Renew as is
+TR0053,Granite Belt Mutual,Death,Quota Share,VIC,2017,0.466604,421865.0,196844.0,0.0,0.769225,127666.0,Profitable,Renew as is
+TR0073,Coolabah Insurance,TPD,Quota Share,NSW,2021,0.461378,166379.0,76764.0,0.0,0.728224,44398.0,Profitable,Renew as is
