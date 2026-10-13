@@ -1,0 +1,16 @@
+# Generated - recreate with: python generate_data.py
+data/*.csv
+*.duckdb
+
+# Python / Jupyter clutter
+__pycache__/
+.ipynb_checkpoints/
+
+# Your local virtual environment (never commit this)
+venv/
+
+# Mac clutter
+.DS_Store
+
+# NOTE: outputs/ is deliberately NOT ignored. The dashboard reads outputs/treaty_results.csv,
+# so it must be committed or the deployed app has nothing to show.
